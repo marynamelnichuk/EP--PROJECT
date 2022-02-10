@@ -43,7 +43,7 @@
         <maven.compiler.target>1.7</maven.compiler.target>
         <junit.version>4.11</junit.version>
         <mysql-connector-java.version>8.0.13</mysql-connector-java.version>
-        <hibernate.version>5.4.1.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
     </properties>
 
     <dependencies>
